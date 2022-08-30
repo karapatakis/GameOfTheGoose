@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kosta
+ * @author kostas
  */
 public class GameOfTheGoose {
 
