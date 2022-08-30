@@ -7,7 +7,7 @@ package gameofthegoose;
 
 /**
  *
- * @author kosta
+ * @author kostas
  */
 public class Square {
 
