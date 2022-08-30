@@ -10,7 +10,7 @@ import static gameofthegoose.GameOfTheGoose.ANSI_RESET;
 
 /**
  *
- * @author kosta
+ * @author kostas
  */
 public class Player {
 
