@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author kosta
+ * @author kostas
  */
 public class Board {
 
